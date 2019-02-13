@@ -50,7 +50,7 @@ int main()
 		{
 			++unknownCharacters;
 		}
-	}
+	} 
 
 	//tells the code to put all the data gathered and put it togther
 	lengthOfStringSubmittedForAnalysis = textToAnalyze.length();
